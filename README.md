@@ -11,4 +11,4 @@ This is my summary of the topics for the AWS Cloud Practitiones certification.
 - [Module 7 - Monitoring and Analytics]('./Module&#32;7.md')
 - [Module 8 - Pricing and support]('./Module&#32;8.md')
 - [Module 9 - Migration and innovation]('./Module&#32;9.md')
-- [Module 10 - Cloud journey]('./Module&#32;10.md')
+- [Module 10 - Cloud journey](./Module&#32;10.md)
